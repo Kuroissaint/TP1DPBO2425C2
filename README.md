@@ -44,7 +44,7 @@ Gambar dokumentasi menunjukan bahwa program berhasil dijalankan
 - Data objek produk disimpan dalam List
 - Implementasi CRUD hanya menggunakan pengkondisian While
 
-![dokumentasicpp](./Dokumentasi/python.jpg)
+![dokumentasicpp](./Dokumentasi/py.jpg)
 
 Gambar dokumentasi menunjukan bahwa program berhasil dijalankan
 
@@ -57,3 +57,4 @@ Gambar dokumentasi menunjukan bahwa program berhasil dijalankan
   
 ![dokumentasicpp](./Dokumentasi/php.jpg)
 Gambar dokumentasi menunjukan bahwa program berhasil dijalankan
+
